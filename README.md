@@ -23,6 +23,27 @@ and deep learning algorithms completed during my ML learning journey.
 - TensorFlow / Keras
 - TF-IDF Vectorizer
 
+## Datasets Used
+
+- Salary Dataset  
+  Used for Linear Regression to model relationships between experience and salary.
+
+- Income Dataset  
+  Used for Logistic Regression to perform binary classification based on income levels.
+
+- Breast Cancer Dataset  
+  Used for classification experiments with Logistic Regression and KNN to distinguish between malignant and benign cases.
+
+- Iris Dataset  
+  Used for KNN classification and Clustering to explore multi-class classification and unsupervised learning.
+
+- Titanic Dataset  
+  Used for Logistic Regression and ANN (tabular data) to predict passenger survival outcomes.
+
+- Cats and Dogs Image Dataset  
+  Used for ANN (image-based) and CNN experiments to perform binary image classification.
+
+
 ## Learning Outcomes
 - Hands-on implementation of core Machine Learning, Deep Learning, and NLP models including regression, classification, clustering, ANN, and CNN using Python.
 
